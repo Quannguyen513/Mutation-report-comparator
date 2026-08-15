@@ -1,4 +1,4 @@
-# 🧬 Mutation Report Comparator
+# 🧬 Mutation Report Comparator MRC_QUANDZ
 
 **Công cụ tự động so sánh các cặp mutation report từ Sequencher 5.4.6 cho kiểm soát chất lượng (QC) giải trình tự DNA ty thể (mtDNA).**
 
