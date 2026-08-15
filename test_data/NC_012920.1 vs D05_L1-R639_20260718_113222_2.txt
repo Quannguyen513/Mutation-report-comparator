@@ -1,0 +1,21 @@
+9 differences between
+NC_012920.1 and the consensus.
+
+LEGEND:
+Pos - Offset in NC_012920.1.
+Seq - Base in NC_012920.1.
+Con - Base in the consensus.
+Required Edit - Change needed in NC_012920.1
+to match corresponding base in the consensus.
+
+    Pos       Seq           Con         Required Edit
+
+     73        A             G           Change base
+    150        C             T           Change base
+    152        T             C           Change base
+    263        A             G           Change base
+    309.1      :             C           Insert base
+    315.1      :             C           Insert base
+  16,304       T             C           Change base
+  16,335       A             G           Change base
+  16,362       T             C           Change base
